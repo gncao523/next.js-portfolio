@@ -42,6 +42,7 @@ const BlogPost = ({ post }) => {
             className="w-full h-96 rounded-lg shadow-lg object-cover"
             src={post.image}
             alt={post.title}
+            layout="fill"
           ></Image>
           <h1
             ref={textOne}

@@ -40,28 +40,28 @@
         "id": "1",
         "title": "Public Goods Selling",
         "description": "Shampoo",
-        "imageSrc": "https://www.publicgoods.com/cdn/shop/products/Hand-Soap-Refill-copy.jpg?v=1628033013",
-        "url": "https://publicgoods.com"
+        "imageSrc": "/images/1.png",
+        "url": "https://publicgoods.com/"
       },
       {
         "id": "2",
         "title": "Preferred Software Development",
         "description": "Tailored digital solutions",
-        "imageSrc": "https://ohayo.in/wp-content/uploads/2024/02/net_banner.png",
+        "imageSrc": "/images/2.png",
         "url": "https://ohayo.in/"
       },
       {
         "id": "3",
         "title": "Tech Evangelist Pro",
         "description": "Crypto Matketing",
-        "imageSrc": "https://techvimo.com/wp-content/uploads/al_opt_content/IMAGE/techvimo.com/wp-content/uploads/2024/03/ai-generated-3d-cute-cartoon-businessman-character-in-black-suit-on-transparent-background-png-1536x1536.webp.bv.webp",
+        "imageSrc": "/images/3.png",
         "url": "https://techvimo.com/"
       },
       {
         "id": "4",
         "title": "Quality Cookware",
         "description": "Cooking",
-        "imageSrc": "https://cdn.sanity.io/images/fr9flhkd/main/5853838238bf4b944c9b3da0322f92ed599f6da6-1800x1000.jpg?fm=webp&q=75&w=1280",
+        "imageSrc": "/images/4.png",
         "url": "https://madeincookware.com/"
       }
     ],
