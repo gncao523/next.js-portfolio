@@ -81,7 +81,7 @@ export const projectsData = [
     video: template,
     title: "Template Manage System Shopify App",
     description:
-      "Decentralized Ecosystem that Empowers Projects & Maximizes Yield to move Defi forward on Solana. Swap, Yield Farming, Staking, IDO Launchpad & more.",
+      "This is a custom Shopify app that allowed users to upload their own artwork for personalized gift boxes. This app integrated directly with the Shopify Admin using Shopify App Bridge and was built with React and Node.js.",
     live: "#",
     code: "#",
     tech: ["Next.js", "Node.js", "Mongodb", "Node.js"],
